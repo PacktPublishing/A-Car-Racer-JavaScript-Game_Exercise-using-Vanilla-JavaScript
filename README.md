@@ -39,7 +39,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI> Fundamental JavaScript concepts
-<LI> Access to computer
 <LI> Use of editor to write code
 <LI> HTML and CSS knowledge
 </UL>
